@@ -153,4 +153,9 @@ Feel free to:
 
 Star the repository
 Share feedback
-Connect with me on LinkedIn
+
+## Contact
+👤 Precious Oga
+* 📧 Email: ogapreciousukamaka@gmail.com
+* Linkedin: https://www.linkedin.com/in/precious-oga-18b808367
+* Tiktok: https://www.tiktok.com/@ogapreciousdataanalyst
