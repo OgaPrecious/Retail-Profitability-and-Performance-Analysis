@@ -45,7 +45,7 @@ Profit by Category
 Profit Margin by Region
 Sales vs Profit Trend (with Margin insight)
 ## Screenshot
-![Profit Overview Dashboard]()
+![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
 
 * 🔹 2. Profit Drivers Analysis
 
