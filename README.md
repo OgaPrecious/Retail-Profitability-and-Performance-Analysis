@@ -219,7 +219,7 @@ A large portion of the product portfolio is destroying value and requires immedi
 ### 🥇 11. What Do Top vs Bottom Products Reveal?
 
 *Screenshot*![10 bottom Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/10%20bottom%20products%20by%20profit.png)
-![10 top Products]()
+![10 top Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/10%20top%20products%20by%20Profit.png)
 
 
 Top-performing products generate significantly higher profit compared to bottom-performing products, which consistently contribute minimal or negative profit.
