@@ -183,6 +183,7 @@ The business relies heavily on a few high-performing products.
 ### 📉 8. Which Products Have the Highest Profit Margins?
 
 *Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Product by Profit Margin](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20margin%20by%20product.png)
 
 
 Some products achieve high profit margins despite not having the highest sales volume.
