@@ -123,7 +123,7 @@ Profit is concentrated in a few regions, increasing dependency risk and limiting
 
 ### 📊 3. How Does Profit Margin Vary by Region?
 
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Profit Margin by Region](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20margin%25%20by%20region.png)
 
 
 Some regions maintain strong profit margins, while others lag behind despite generating revenue.
