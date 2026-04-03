@@ -93,11 +93,11 @@ I’ll expand it to cover your **12 charts cleanly**, using your exact storytell
 # ## **Insights**
 
 ---
-
-### 📈 1. Does Revenue Growth Translate to Profit Growth?
-
+# Page 1 Profit Overview Dashboard
 *Screenshot*
 ![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+###  1. Does Revenue Growth Translate to Profit Growth?
+
 *Screenshot*![Sales and Profit Over Time](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20and%20sales%20over%20time.png)
 
 Sales show a consistent upward trend, but profit grows at a slower rate, with noticeable fluctuations in profit margin.
@@ -109,7 +109,7 @@ Revenue growth alone is not sufficient; focus must shift toward improving profit
 
 ---
 
-### 🌍 2. Which Regions Generate the Most Profit?
+###  2. Which Regions Generate the Most Profit?
 
 *Screenshot*![Profit by Region](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20region.png)
 
@@ -121,7 +121,7 @@ Profit is concentrated in a few regions, increasing dependency risk and limiting
 
 ---
 
-### 📊 3. How Does Profit Margin Vary by Region?
+###  3. How Does Profit Margin Vary by Region?
 
 *Screenshot*![Profit Margin by Region](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20margin%25%20by%20region.png)
 
@@ -133,9 +133,9 @@ Operational efficiency and pricing strategies differ across regions and need sta
 
 ---
 
-### 🧮 4. Which Categories Drive Profit?
+### 4. Which Categories Drive Profit?
 
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Profit by Category](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20category.png)
 
 
 Technology leads in total profit, followed by Office Supplies, while Furniture contributes the least.
@@ -144,11 +144,10 @@ Technology leads in total profit, followed by Office Supplies, while Furniture c
 Category-level performance is uneven, and investment should favor high-return segments.
 
 ---
-
-### 💸 5. How Do Discounts Affect Profitability?
-
+# Page 2 Profit Drivers Analysis Dashboard
 *Screenshot*
 ![Profit Drivers Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Drivers.png)
+### 5. How Do Discounts Affect Profitability?
 *Screenshot*![Discount by Profit Relationship](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
 
 
@@ -158,44 +157,6 @@ Higher discounts are associated with lower profit. Many products with heavy disc
 Discount strategies may be eroding profitability rather than supporting sustainable growth.
 
 ---
-
-### 🚚 6. What Impact Do Shipping Costs Have on Profit?
-
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-*screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
-
-Shipping costs are significantly high in certain regions, directly reducing overall profitability.
-
-**Business Implication:**
-Logistics and delivery costs are key drivers of margin reduction.
-
----
-
-### 📦 7. Which Products Generate the Most Profit?
-
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-*Screenshot*![product by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20product.png)
-
-A small group of products contributes a large portion of total profit.
-
-**Business Implication:**
-The business relies heavily on a few high-performing products.
-
----
-
-### 📉 8. Which Products Have the Highest Profit Margins?
-
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-*Screenshot*![Product by Profit Margin](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20margin%20by%20product.png)
-
-
-Some products achieve high profit margins despite not having the highest sales volume.
-
-**Business Implication:**
-High-margin products present an opportunity for strategic scaling and promotion.
-
----
-
 ### 🔍 9. What Is the Relationship Between Discount and Profit?
 
 *Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
@@ -207,6 +168,40 @@ The scatter plot shows that most high-discount products fall below average profi
 Aggressive discounting generally leads to reduced profitability and should be controlled.
 
 ---
+
+
+
+### 🚚 6. What Impact Do Shipping Costs Have on Profit?
+*screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
+
+Shipping costs are significantly high in certain regions, directly reducing overall profitability.
+
+**Business Implication:**
+Logistics and delivery costs are key drivers of margin reduction.
+
+---
+
+###  7. Which Products Generate the Most Profit?
+*Screenshot*![profit by product](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20product.png)
+
+A small group of products contributes a large portion of total profit.
+
+**Business Implication:**
+The business relies heavily on a few high-performing products.
+
+---
+
+###  8. Which Products Have the Highest Profit Margins?
+*Screenshot*![Profit Margin% by Product](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20margin%20by%20product.png)
+
+
+Some products achieve high profit margins despite not having the highest sales volume.
+
+**Business Implication:**
+High-margin products present an opportunity for strategic scaling and promotion.
+
+---
+
 
 ### ⚠️ 10. How Many Products Are Loss-Making?
 
@@ -232,11 +227,12 @@ Top-performing products generate significantly higher profit compared to bottom-
 There is a wide performance gap, indicating the need to eliminate or improve underperforming products.
 
 ---
-
-### 🧩 12. How Is Profit Distributed Across Sub-Categories?
-
+# Page 3 Actionable Insights and Opportunities 
 *Screenshot*
 ![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
+### 🧩 12. How Is Profit Distributed Across Sub-Categories?
+
+
 
 Profit is unevenly distributed across sub-categories, with a few dominating while others contribute minimally.
 
