@@ -148,6 +148,8 @@ Category-level performance is uneven, and investment should favor high-return se
 
 *Screenshot*
 ![Profit Drivers Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Drivers.png)
+*Screenshot*![Discount by Profit Relationship](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
+
 
 Higher discounts are associated with lower profit. Many products with heavy discounts fail to generate meaningful profit.
 
