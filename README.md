@@ -72,7 +72,7 @@ Top 10 and Bottom 10 products
 Profit breakdown by category
 Sub-category performance
 ## Screenshot
-![Actional Insights Dashboard]()
+![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
 
 
  ## Key Insights
@@ -115,24 +115,24 @@ Furniture underperforms in both profit and margin
  Not all categories contribute equally to business success
 
 ## Recommendations
-* ✅ 1. Optimize Discount Strategy
- Reduce excessive discounting on low-margin products
- Apply targeted discounts only where profitable
+* 1. Optimize Discount Strategy
+    * Reduce excessive discounting on low-margin products
+    *  Apply targeted discounts only where profitable
 * ✅ 2. Improve Cost Efficiency (Shipping)
-Reassess logistics strategy in high-cost regions
-Negotiate better shipping rates or adjust pricing
-* ✅ 3. Eliminate or Fix Loss-Making Products.
- Discontinue consistently unprofitable products.
- Re-evaluate pricing or sourcing strategies.
-* ✅ 4. Focus on High-Performing Categories.
- Invest more in Technology products.
- Expand high-margin product lines.
-* ✅ 5. Regional Strategy Optimization.
-  Investigate low-profit regions with high sales.
-  Adjust pricing, logistics, or product mix.
-* ✅ 6. Continuous Performance Monitoring
-Track profit margin alongside revenue
-Regularly review product-level profitability
+     * Reassess logistics strategy in high-cost regions
+     * Negotiate better shipping rates or adjust pricing
+  * 3. Eliminate or Fix Loss-Making Products.
+     * Discontinue consistently unprofitable products.
+     *  Re-evaluate pricing or sourcing strategies.
+ * 4. Focus on High-Performing Categories.
+     * Invest more in Technology products.
+     *  Expand high-margin product lines.
+*  5. Regional Strategy Optimization.
+     * Investigate low-profit regions with high sales.
+     * Adjust pricing, logistics, or product mix.
+* 6. Continuous Performance Monitoring
+     * Track profit margin alongside revenue
+     * Regularly review product-level profitability
 
  ## Key Takeaway
 
