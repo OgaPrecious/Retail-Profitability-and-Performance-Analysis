@@ -66,8 +66,8 @@ The following steps were carried out to prepare the dataset for analysis:
     *Screenshot*![consistent date column](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/consistent%20date%20column.png)
 
 * Creation of calculated measures using DAX (e.g., Profit Margin, Total Profit)
-  *Screenshot*
-
+  *Screenshot*![Profit Margin](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Margin.png)
+*Screenshot*![Total Profit]()
 ---
 
 ##  **Skills Demonstrated**
