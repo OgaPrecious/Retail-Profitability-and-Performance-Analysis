@@ -152,16 +152,6 @@ Category-level performance is uneven, and investment should favor high-return se
 
 
 Higher discounts are associated with lower profit. Many products with heavy discounts fail to generate meaningful profit.
-
-**Business Implication:**
-Discount strategies may be eroding profitability rather than supporting sustainable growth.
-
----
-### 🔍 9. What Is the Relationship Between Discount and Profit?
-
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-
-
 The scatter plot shows that most high-discount products fall below average profit levels, with only a few exceptions.
 
 **Business Implication:**
