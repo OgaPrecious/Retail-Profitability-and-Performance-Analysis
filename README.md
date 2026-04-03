@@ -61,14 +61,9 @@ Data preparation and initial cleaning were performed using power query before vi
 
 The following steps were carried out to prepare the dataset for analysis:
 
-* Removing duplicate records
-  *Screenshot*
-
-* Handling missing/null values
-  *Screenshot*
-
 * Data standardization (formatting columns, correcting inconsistencies)
-  *Screenshot*
+  *Screenshot*![Inconsistent date column](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Inconsistent%20date%20columns.png)
+    *Screenshot*![consistent date column]()
 
 * Creation of calculated measures using DAX (e.g., Profit Margin, Total Profit)
   *Screenshot*
