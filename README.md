@@ -44,6 +44,9 @@ Profit by Region
 Profit by Category
 Profit Margin by Region
 Sales vs Profit Trend (with Margin insight)
+## Screenshot
+![Profit Overview Dashboard]()
+
 * 🔹 2. Profit Drivers Analysis
 
 Focus: What is driving profitability?
@@ -55,6 +58,9 @@ Profit by Product
 Profit Margin by Product
 Discount vs Profit (Scatter Plot)
 Shipping Cost by Region
+## Screenshot
+![Profit Drivers Dashboard]()
+
 * 🔹 3. Actionable Insights & Opportunities
 
 Focus: Where should the business act?
@@ -65,6 +71,9 @@ Loss-making product count
 Top 10 and Bottom 10 products
 Profit breakdown by category
 Sub-category performance
+## Screenshot
+![Actional Insights Dashboard]()
+
 
  ## Key Insights
 * 1. Revenue Growth Does Not Translate to Profit Growth
