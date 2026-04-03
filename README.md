@@ -159,7 +159,7 @@ Discount strategies may be eroding profitability rather than supporting sustaina
 ### 🚚 6. What Impact Do Shipping Costs Have on Profit?
 
 *Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-*screenshot*!(https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
+*screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
 
 Shipping costs are significantly high in certain regions, directly reducing overall profitability.
 
@@ -171,7 +171,7 @@ Logistics and delivery costs are key drivers of margin reduction.
 ### 📦 7. Which Products Generate the Most Profit?
 
 *Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
-
+*Screenshot*![product by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20product.png)
 
 A small group of products contributes a large portion of total profit.
 
