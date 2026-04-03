@@ -64,10 +64,13 @@ The following steps were carried out to prepare the dataset for analysis:
 * Data standardization (formatting columns, correcting inconsistencies)
   *Screenshot*![Inconsistent date column](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Inconsistent%20date%20columns.png)
     *Screenshot*![consistent date column](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/consistent%20date%20column.png)
+---
 
 * Creation of calculated measures using DAX (e.g., Profit Margin, Total Profit)
   *Screenshot*![Profit Margin](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Margin.png)
-*Screenshot*![Total Profit]()
+---
+*Screenshot*![Total Profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Total%20Profit.png)
+
 ---
 
 ##  **Skills Demonstrated**
