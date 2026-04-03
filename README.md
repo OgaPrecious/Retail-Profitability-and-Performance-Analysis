@@ -110,7 +110,7 @@ Revenue growth alone is not sufficient; focus must shift toward improving profit
 
 ### 🌍 2. Which Regions Generate the Most Profit?
 
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Profit by Region](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20by%20region.png)
 
 
 The Central region generates the highest total profit, while several other regions contribute significantly less.
