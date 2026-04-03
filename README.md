@@ -162,7 +162,7 @@ Aggressive discounting generally leads to reduced profitability and should be co
 
 
 ### 6. What Impact Do Shipping Costs Have on Profit?
-*screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
+*screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/shipping%20cost%20by%20region.png)
 
 Shipping costs are significantly high in certain regions, directly reducing overall profitability.
 
@@ -193,6 +193,12 @@ High-margin products present an opportunity for strategic scaling and promotion.
 ---
 
 
+# Page 3 Actionable Insights and Opportunities 
+*Screenshot*
+![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
+
+----
+
 ###  10. How Many Products Are Loss-Making?
 
 *Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
@@ -204,13 +210,6 @@ Over 300 products are identified as loss-making.
 A large portion of the product portfolio is destroying value and requires immediate attention.
 
 ---
-
----
-# Page 3 Actionable Insights and Opportunities 
-*Screenshot*
-![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
-
-----
 
 ###  11. What Do Top vs Bottom Products Reveal?
 
