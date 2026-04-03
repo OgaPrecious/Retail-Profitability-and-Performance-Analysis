@@ -98,6 +98,7 @@ I’ll expand it to cover your **12 charts cleanly**, using your exact storytell
 
 *Screenshot*
 ![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Sales and Profit Over Time](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/profit%20and%20sales%20over%20time.png)
 
 Sales show a consistent upward trend, but profit grows at a slower rate, with noticeable fluctuations in profit margin.
 
