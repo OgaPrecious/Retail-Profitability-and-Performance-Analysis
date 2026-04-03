@@ -15,7 +15,7 @@
 
 ---
 
-## ❗ **Problem Statement**
+## **Problem Statement**
 
 In today’s competitive retail environment, many businesses experience increasing sales without a corresponding growth in profit. While revenue continues to rise, profitability remains inconsistent due to hidden inefficiencies across products, regions, and operational costs.
 
@@ -84,13 +84,8 @@ The following steps were carried out to prepare the dataset for analysis:
 * **Critical Thinking & Problem-Solving:** Identifying inefficiencies and business risks
 
 ---
-This is a **very strong structure already**—you’re just missing full coverage of all your visuals.
 
-I’ll expand it to cover your **12 charts cleanly**, using your exact storytelling style 👇
-
----
-
-# ## **Insights**
+## **Insights**
 
 ---
 # Page 1 Profit Overview Dashboard
@@ -145,8 +140,7 @@ Category-level performance is uneven, and investment should favor high-return se
 
 ---
 # Page 2 Profit Drivers Analysis Dashboard
-*Screenshot*
-![Profit Drivers Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Drivers.png)
+*Screenshot*![Profit Drivers Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Drivers.png)
 ### 5. How Do Discounts Affect Profitability?
 *Screenshot*![Discount by Profit Relationship](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/discount%20vs%20profit%20relationship.png)
 
@@ -158,8 +152,6 @@ The scatter plot shows that most high-discount products fall below average profi
 Aggressive discounting generally leads to reduced profitability and should be controlled.
 
 ---
-
-
 
 ### 6. What Impact Do Shipping Costs Have on Profit?
 *screenshot*![Shipping cost by profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/shipping%20cost%20by%20region.png)
@@ -194,36 +186,36 @@ High-margin products present an opportunity for strategic scaling and promotion.
 
 
 # Page 3 Actionable Insights and Opportunities 
-*Screenshot*
-![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
+*Screenshot*![Actional Insights Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Actionable%20Insights.png)
 
 ----
 
 ###  10. How Many Products Are Loss-Making?
-
-*Screenshot*![Profit Overview Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profitabillity%20Overview%20Dashboard.png)
+*Screenshot*![Loss Making Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Loss%20Making%20Products.png)
 
 
 Over 300 products are identified as loss-making.
 
 **Business Implication:**
-A large portion of the product portfolio is destroying value and requires immediate attention.
+A large portion of the product portfolio is destroying value and requires immediate attention. 
 
 ---
 
 ###  11. What Do Top vs Bottom Products Reveal?
 
 *Screenshot*![10 bottom Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/10%20bottom%20products%20by%20profit.png)
-![10 top Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/10%20top%20products%20by%20Profit.png)
+*Screenshot*![10 top Products](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/10%20top%20products%20by%20Profit.png)
 
 
 Top-performing products generate significantly higher profit compared to bottom-performing products, which consistently contribute minimal or negative profit.
 
+
 **Business Implication:**
 There is a wide performance gap, indicating the need to eliminate or improve underperforming products.
------
 
-### 🧩 12. How Is Profit Distributed Across Sub-Categories?
+---
+
+### 12. How Is Profit Distributed Across Sub-Categories?
 *Screenshot*![Sub-category by Profit](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/subcategory%20by%20profit.png)
 
 
