@@ -59,7 +59,7 @@ Profit Margin by Product
 Discount vs Profit (Scatter Plot)
 Shipping Cost by Region
 ## Screenshot
-![Profit Drivers Dashboard]()
+![Profit Drivers Dashboard](https://github.com/OgaPrecious/Retail-Profitability-and-Performance-Analysis/blob/main/Profit%20Drivers.png)
 
 * 🔹 3. Actionable Insights & Opportunities
 
