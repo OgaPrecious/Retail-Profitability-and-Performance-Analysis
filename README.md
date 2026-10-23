@@ -252,6 +252,6 @@ By analyzing profit drivers such as discounts, shipping costs, and product perfo
 
 ## Contact
 👤 Precious Oga
-* 📧 Email: ogapreciousukamaka@gmail.com
+* 📧 Email: preciousoga28@gmail.com
 * Linkedin: https://www.linkedin.com/in/precious-oga-18b808367
 * Tiktok: https://www.tiktok.com/@ogapreciousdataanalyst
